@@ -1,0 +1,11 @@
+face_present,eye_closed,head_turn,yawn,label
+1,0,0,0,engaged
+1,1,0,0,distracted
+1,0,1,0,distracted
+1,0,0,1,distracted
+1,0,0,0,engaged
+1,0,0,0,engaged
+1,1,1,0,distracted
+1,0,1,1,distracted
+1,0,0,0,engaged
+1,0,0,0,engaged
